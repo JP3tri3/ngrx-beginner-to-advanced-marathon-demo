@@ -1,5 +1,7 @@
 # NgrxBeginnerToAdvancedDemo
 
+Practice Demo following NgRx creator Mike Ryan following (https://www.youtube.com/watch?v=iWX7qCGVt9U)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
 ## Development server
